@@ -694,7 +694,7 @@
 			<Overload retVal="Alphanumeric" descr="character used to separate the integer portion from the fractional part of a monetary currency value according to the current locale"/>
 		</KeyWord>
 		<KeyWord name="MONETARY-THOUSANDS-SEPARATOR" func="yes">
-			<Overload retVal="Alphanumeric" descr="character used to separate the thousands digit groupings in a monetary currency value according to the current locale"/>"/>
+			<Overload retVal="Alphanumeric" descr="character used to separate the thousands digit groupings in a monetary currency value according to the current locale"/>
 		</KeyWord>
 		<KeyWord name="MOVE" />
 		<KeyWord name="MULTIPLE" />
